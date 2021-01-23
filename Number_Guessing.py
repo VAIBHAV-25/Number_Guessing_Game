@@ -1,5 +1,5 @@
 while True:
-    # Import random module.
+  
     import random
 
     # Choose an upper limit and a lower limit.
